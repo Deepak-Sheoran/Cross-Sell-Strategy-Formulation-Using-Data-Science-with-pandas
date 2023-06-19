@@ -1,0 +1,2 @@
+# Cross-Sell-Strategy-Formulation-Using-Data-Science-with-pandas
+Cross-sell strategy formulation using data science is a project that aims to leverage a dataset provided by a bank to develop an effective strategy for promoting additional products or services to existing customers. By applying data science techniques, such as data exploration, preprocessing, feature selection, and model development.
